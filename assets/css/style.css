@@ -1,0 +1,34 @@
+body {
+    background-color: #359768;
+    font-family: 'Oswald', sans-serif;
+}
+img {
+    margin-bottom: 2px;
+}
+label {
+    color: white;
+}
+.gifWrapper {
+    float: left;
+    margin: 10px;
+}
+.btn-primary {
+    background-color: #3C3352;
+}
+.giphyButtons {
+    margin: 10px;
+}
+.topicButton {
+    margin-right: 5px;
+    margin-bottom: 8px;
+}
+.rating {
+    color: white;
+    text-align: center;
+}
+#addTopic {
+    margin-top: 5px;
+}
+#topic-input {
+    line-height: 20px;
+}
